@@ -7,7 +7,7 @@ tags: [欢迎]
 欢迎来testestestestestest
 
 这是第一xx
-XXXXXXXXXXXXXXXXXXXX____XXXXXXXXXXXXXXXXXXXx
+什么
 <!-- more -->
 
 ## 开始使用
